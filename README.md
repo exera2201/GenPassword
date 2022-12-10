@@ -5,3 +5,11 @@
                                                             (: GenPassword (:
                                                                 For Gmail 
                                                          The General Password Best
+
+
+
+                                                         
+                                                            Start  CMD.EXE 
+                                                      command input -> pip install pystyle
+                                                      this will install the modules 
+                                                                    (:
