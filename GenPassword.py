@@ -2,8 +2,7 @@ import random
 from pystyle import *
 
 System.Title('GenPassword')
-space = '\n' * 3
-interval = 1.01
+
 
 banner = """
  ▄▀▀▀▀▄   ▄▀▀█▄▄▄▄  ▄▀▀▄ ▀▄      ▄▀▀▄▀▀▀▄  ▄▀▀█▄   ▄▀▀▀▀▄  ▄▀▀▀▀▄  ▄▀▀▄    ▄▀▀▄  ▄▀▀▀▀▄   ▄▀▀▄▀▀▀▄  ▄▀▀█▄▄  
